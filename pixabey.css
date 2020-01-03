@@ -1,0 +1,14 @@
+@import url("https://fonts,googleleapis.com/css?family=open+sans&display-swap" rel="stylesheet");
+body {
+    margin: 0;
+    padding: 0;
+    /*background: */
+    font-family: "Open sans",sans-serif;
+}
+.logo {
+    width: 12%;
+    float: left;
+    background: url("./10-14-50-567_1920x430.jpg");
+    background-position: 10px 50px;
+    height: 38px;
+}
